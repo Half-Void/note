@@ -1,1 +1,1 @@
-FROM gcr.io/heptio-images/namespace-deleter:v0.0.1
+FROM gcr.io/heptio-images/kube-conformance:latest
