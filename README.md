@@ -12,5 +12,18 @@ gcr.io/heptio-images/kube-conformance:latest
 gcr.io/heptio-images/scanner-forwarder:v0.0.4
 
 gcr.io/heptio-images/namespace-deleter:v0.0.1
+# kubernetes-images-list
+k8s.gcr.io/kube-apiserver:v1.14.3
+k8s.gcr.io/kube-controller-manager:v1.14.3
+
+k8s.gcr.io/kube-scheduler:v1.14.3
+
+k8s.gcr.io/kube-proxy:v1.14.3
+
+k8s.gcr.io/pause:3.1
+
+k8s.gcr.io/etcd:3.3.10
+
+k8s.gcr.io/coredns:1.3.1
 # latest
 the useful images is in 192.168.55.103 docker images and persion-docker.io
