@@ -14,6 +14,7 @@ gcr.io/heptio-images/scanner-forwarder:v0.0.4
 gcr.io/heptio-images/namespace-deleter:v0.0.1
 # kubernetes-images-list
 k8s.gcr.io/kube-apiserver:v1.14.3
+
 k8s.gcr.io/kube-controller-manager:v1.14.3
 
 k8s.gcr.io/kube-scheduler:v1.14.3
