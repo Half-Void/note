@@ -1,7 +1,7 @@
 # note
 there is transport point for gcr.io or other
 but just a litter debug need to fix, it download the same image not two difficult images when use the one github-auto-build repository
-the url about is that 
+the url about is that https://scanner.heptio.com/f32cf4c520c5ce2cbece684119d8ff2c/
 kubectl apply -f https://scanner.heptio.com/f32cf4c520c5ce2cbece684119d8ff2c/yaml/
 # images-list
 gcr.io/heptio-images/sonobuoy:v0.13
