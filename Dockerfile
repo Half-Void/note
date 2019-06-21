@@ -1,1 +1,1 @@
-FROM gcr.io/heptio-images/sonobuoy:v0.13
+FROM gcr.io/heptio-images/kube-conformance:latest
