@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-proxy:v1.14.3
+FROM k8s.gcr.io/coredns:1.3.1
