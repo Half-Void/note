@@ -26,5 +26,7 @@ k8s.gcr.io/pause:3.1
 k8s.gcr.io/etcd:3.3.10
 
 k8s.gcr.io/coredns:1.3.1
+
+k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
 # latest
 the useful images is in 192.168.55.103 docker images and persion-docker.io
