@@ -1,3 +1,4 @@
+# 通过docker.hub的auto push拉取k8s.io的镜像文件
 # note
 there is transport point for gcr.io or other
 but just a litter debug need to fix, it download the same image not two difficult images when use the one github-auto-build repository
